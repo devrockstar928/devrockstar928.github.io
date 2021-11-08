@@ -979,7 +979,7 @@ button:focus {
 }
 
 .white-vertion.home-slider .mh-home .img-border {
-  border: 20px solid rgba(0, 0, 0, 0.52);
+  /*border: 20px solid rgba(0, 0, 0, 0.52);*/
 }
 
 .white-vertion.home-slider .mh-home .img-border {
@@ -1249,11 +1249,11 @@ button:focus {
 }
 
 .dark-vertion .mh-home .hero-img img {
-  border: 20px solid rgba(0, 0, 0, 0.4);
+  /*border: 20px solid rgba(0, 0, 0, 0.4);*/
 }
 
 .dark-vertion .mh-home .img-border {
-  border: 20px solid rgba(0, 0, 0, 0.9);
+  /*border: 20px solid rgba(0, 0, 0, 0.9);*/
 }
 
 .dark-vertion .candidatos .parcial .progressBar {
@@ -1273,7 +1273,7 @@ button:focus {
 }
 
 .home-slider .mh-home .img-border {
-  border: 20px solid rgba(0, 0, 0, 0.52);
+  /*border: 20px solid rgba(0, 0, 0, 0.52);*/
 }
 
 .home-slider .img-color-overlay {
@@ -1283,7 +1283,7 @@ button:focus {
 }
 
 .home-video .mh-home .img-border {
-  border: 20px solid rgba(0, 0, 0, 0.52);
+  /*border: 20px solid rgba(0, 0, 0, 0.52);*/
 }
 
 .mh-rtl {
@@ -1633,14 +1633,16 @@ li .fa {
   margin: 0 auto;
   float: none;
   text-align: center;
-  border: 20px solid rgba(0, 0, 0, 0.17);
+  /*border: 20px solid rgba(0, 0, 0, 0.17);*/
   border-radius: 50%;
+  width: 300px;
+  height: 335px;
 }
 
 .mh-home .img-border {
   height: 400px;
   width: 400px;
-  border: 20px solid rgba(0, 0, 0, 0.07);
+  /*border: 20px solid rgba(0, 0, 0, 0.07);*/
   margin: 0 auto;
   border-radius: 50%;
 }
